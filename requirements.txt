@@ -1,3 +1,11 @@
 flask
 requests
 gunicorn
+streamlit
+openai==0.28.0
+pydub
+gtts
+faiss-cpu
+numpy
+pandas
+python-dotenv
